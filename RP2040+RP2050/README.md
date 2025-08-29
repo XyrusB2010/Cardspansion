@@ -7,5 +7,5 @@ The Cardspansion-RPI is the 4th and final MCU to be added to the first generatio
 - USB-OTG functionality (Host on dedicated USB pin, OTG configured on PIO)
 - 2 LEDs (broken out for carrier board)
 ## PCB Render
-<img width="857" height="857" alt="cardspansion-rpi-front" src="https://github.com/user-attachments/assets/0bcce19a-db84-419b-85b5-4fe161d57de5" />
-<img width="857" height="857" alt="cardspansion-rpi-back" src="https://github.com/user-attachments/assets/d0ed0264-b3bd-47cb-afa0-ba778946dc21" />
+<img width="500" height="500" alt="cardspansion-rpi-front" src="https://github.com/user-attachments/assets/0bcce19a-db84-419b-85b5-4fe161d57de5" />
+<img width="500" height="500" alt="cardspansion-rpi-back" src="https://github.com/user-attachments/assets/d0ed0264-b3bd-47cb-afa0-ba778946dc21" />
