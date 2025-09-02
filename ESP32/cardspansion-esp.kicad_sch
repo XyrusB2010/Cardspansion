@@ -3664,16 +3664,6 @@
 		)
 		(uuid "07a7eed7-4ef4-4e8a-9af4-e96d76b980df")
 	)
-	(label "I2S-SDIN"
-		(at 137.16 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "11c0ded7-8478-44ff-9cb7-bb19841b75ee")
-	)
 	(label "SPI-MOSI"
 		(at 54.61 71.12 0)
 		(effects
@@ -3804,16 +3794,6 @@
 		)
 		(uuid "5db75450-bc04-4104-81d1-79041f8a87d3")
 	)
-	(label "I2S-SDOUT"
-		(at 137.16 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6215e3b6-d5a9-456c-aa56-f0b0193a74e6")
-	)
 	(label "UART-RX"
 		(at 54.61 50.8 0)
 		(effects
@@ -3913,6 +3893,16 @@
 			(justify left bottom)
 		)
 		(uuid "8a6caafb-05c6-4653-9686-9c8cce64aece")
+	)
+	(label "I2S-SDOUT"
+		(at 137.16 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95a6f571-af6e-40e0-a0c5-8890799e457a")
 	)
 	(label "RTCIN"
 		(at 54.61 93.98 0)
@@ -4053,6 +4043,16 @@
 			(justify right bottom)
 		)
 		(uuid "ee47742f-7f78-4a45-9333-6ecbeeb95de0")
+	)
+	(label "I2S-SDIN"
+		(at 137.16 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "efcd635a-efcb-422f-8b4e-fae25b8bd895")
 	)
 	(label "JTAG-TDO"
 		(at 54.61 60.96 0)
