@@ -3543,7 +3543,7 @@
 		)
 		(uuid "695869d0-2b38-4c86-8d95-8cbf6750e899")
 	)
-	(label "I2S-SDIN"
+	(label "I2S-SDOUT"
 		(at 162.56 73.66 0)
 		(effects
 			(font
@@ -3551,17 +3551,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "73fb5def-1725-47b4-899a-a8e1448e0848")
-	)
-	(label "I2S-SDOUT"
-		(at 162.56 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8314a104-6e6e-44bd-bd93-c7558975973a")
+		(uuid "75d6e1b5-7d33-4d4c-89aa-e116413372fa")
 	)
 	(label "I2S-SDOUT"
 		(at 60.96 82.55 270)
@@ -3572,6 +3562,16 @@
 			(justify right bottom)
 		)
 		(uuid "8542ee26-5209-4fcb-beab-10834fffc9ee")
+	)
+	(label "I2S-SDIN"
+		(at 162.56 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96f82664-6dcf-4384-aebd-ff3f120de319")
 	)
 	(label "SWDIO"
 		(at 162.56 35.56 0)
