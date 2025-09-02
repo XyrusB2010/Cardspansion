@@ -3662,16 +3662,6 @@
 		)
 		(uuid "35c5a8e7-e925-486a-a8c6-cab20b7eadaa")
 	)
-	(label "I2S-SDIN"
-		(at 151.13 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3c583977-4fde-4194-bbfc-ec5daf1b0ff2")
-	)
 	(label "I2C-SDA"
 		(at 66.04 35.56 0)
 		(effects
@@ -3712,6 +3702,16 @@
 		)
 		(uuid "5776fbce-38ce-4dc3-a0b9-72a37f44df65")
 	)
+	(label "I2S-SDIN"
+		(at 151.13 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ac2bb43-fff6-4cce-9b5f-c2cea1afa5fc")
+	)
 	(label "I2C-SCL"
 		(at 151.13 48.26 0)
 		(effects
@@ -3751,6 +3751,16 @@
 			(justify right bottom)
 		)
 		(uuid "7b3b0cfe-1cdb-4cf6-b849-57f36a280197")
+	)
+	(label "I2S-SDOUT"
+		(at 151.13 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ff7955c-9a25-47c0-88a0-5ff8345dc463")
 	)
 	(label "USB-D+"
 		(at 95.25 63.5 180)
@@ -3811,16 +3821,6 @@
 			(justify left bottom)
 		)
 		(uuid "932f3d57-d994-46f1-815b-b2d829d3fd27")
-	)
-	(label "I2S-SDOUT"
-		(at 151.13 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9bb8b276-802f-4b1d-b4b5-cb64e99a7a3d")
 	)
 	(label "SPI-MISO"
 		(at 30.48 40.64 180)
